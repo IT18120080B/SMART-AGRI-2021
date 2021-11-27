@@ -6,7 +6,7 @@ const InsectSchema = new mongoose.Schema(
       type: String,
       require: true,
       min: 3,
-      max: 20,
+      max: 22,
       unique: true,
     },
     howtoManage: {

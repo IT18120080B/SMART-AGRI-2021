@@ -1,0 +1,14 @@
+com/agro_vidula/BuildConfig.java
+ com.agro_vidula.BuildConfig
+com/agro_vidula/MainApplication.java
+ com.agro_vidula.MainApplication
+ com.agro_vidula.MainApplication$1
+com/agro_vidula/MainActivity.java
+ com.agro_vidula.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/agro_vidula/ReactNativeFlipper.java
+ com.agro_vidula.ReactNativeFlipper
+ com.agro_vidula.ReactNativeFlipper$1
+ com.agro_vidula.ReactNativeFlipper$2
+ com.agro_vidula.ReactNativeFlipper$2$1
